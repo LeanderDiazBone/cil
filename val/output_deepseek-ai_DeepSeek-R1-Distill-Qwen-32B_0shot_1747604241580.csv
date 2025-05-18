@@ -1,0 +1,537 @@
+id,label,raw_output,sentence
+0,neutral,"Okay, so I have this task where I need to classify a review as positive, negative, or neutral. The review given is: ""Person on duty was P. Garippa."" Hmm, let's break this down.
+
+First, I'll read the review carefully. It mentions the person on duty was P. Garippa. That's all the information provided. I need to figure out the sentiment from this. But wait, there's no explicit positive or negative language here. It's just stating a fact about who was on duty.
+
+So, the key here is to assess the sentiment based on the content. Since there's no adjective or opinion expressed, it's just a neutral statement. The reviewer is simply identifying who was on duty, without any indication of satisfaction or dissatisfaction.
+
+I should consider if there's any implied sentiment. Maybe the name P. Garippa is associated with something positive or negative, but without context, I can't assume that. It's safest to go with the most straightforward interpretation.
+
+Therefore, the sentiment is neutral because there's no emotional language or opinion expressed.
+</think>
+
+neutral",Person on duty was P. Garippa.
+1,positive,"Alright, let's tackle this classification task. The review given is: ""After all hubby and I are married!"" Hmm, first, I need to understand the sentiment here. The phrase ""After all"" can sometimes have a negative connotation, implying that something wasn't expected or that it's a relief. But in this context, the main focus seems to be on the fact that the person and their hubby are married. Marriage is generally seen as a positive event, bringing happiness and commitment.
+
+The use of ""hubby"" suggests a close and affectionate relationship, which is positive. The exclamation mark at the end adds emphasis, possibly indicating excitement or satisfaction. So, despite the ""After all,"" the overall tone seems positive because it's celebrating a marriage. Therefore, I think the sentiment here is positive.
+</think>
+
+positive",After all hubby and I are married!
+2,positive,"Okay, so I need to classify the given review as positive, negative, or neutral. Let me read the review again: ""I then want to 24 hour fitness and registered with no issues."" Hmm, the user is talking about wanting to go to 24 Hour Fitness and registering without any problems. 
+
+First, I should break down the sentence. The key points are ""want to 24 hour fitness"" and ""registered with no issues."" The phrase ""want to"" suggests a desire or intention, which is a positive indicator. They wanted to go there, which implies they have a favorable view of the gym.
+
+Next, the registration part: ""registered with no issues."" That means the process went smoothly, without any problems. Smooth registration is a positive experience, so this part is definitely positive.
+
+I don't see any negative words here. There's no complaint about the service, the staff, or the facilities. The user didn't mention any problems, just that everything went well. So, the sentiment isn't negative.
+
+Is there any neutrality? Well, the review is brief, but it's still expressing satisfaction with the registration process. It's not just a neutral statement; it's actively positive because they're indicating a smooth experience.
+
+So putting it all together, the review is positive because the user had a good experience with both wanting to join and registering without any issues.
+</think>
+
+positive",I then want to 24 hour fitness and registered with no issues.
+3,positive,"Okay, so I need to classify the review ""They stayed 30 mins after closing time just to help another man out."" as positive, negative, or neutral. Let me break this down.
+
+First, the review mentions that they stayed 30 minutes after closing time. That shows they went beyond their usual hours. The reason given is to help another man out. Helping someone else, especially going the extra mile, is generally seen as a positive action.
+
+The sentiment here seems to be praising their willingness to assist. Even though it's a short review, the focus is on their helpfulness and dedication. There's no negative language used, and it's not just a neutral statement about facts.
+
+So, putting it all together, the sentiment expressed is positive because it highlights their kindness and willingness to help beyond expectations.
+</think>
+
+positive",They stayed 30 mins after closing time just to help another man out.
+4,neutral,"Okay, so I need to classify this review as positive, negative, or neutral. Let me read it again: ""Here from Upstate NY and we're looking for something good on our last night here."" Hmm, the user is from Upstate NY and they're on their last night somewhere, probably in a different place. They're searching for something good, which suggests they have high hopes or expectations. But wait, the review doesn't actually mention their experience, just that they're looking for something good. So it's more about their current situation than their opinion on the place they're reviewing. They might be expressing a need rather than a sentiment. Since there's no explicit positive or negative language, I think this is neutral. They haven't stated if they found something good or not, so their sentiment isn't clear yet. Yeah, I'll go with neutral.
+</think>
+
+neutral",Here from Upstate NY and we're looking for something good on our last night here.
+5,neutral,"Okay, so I need to figure out whether the review ""this is what it has all come to ."" is positive, negative, or neutral. Let me break it down step by step.
+
+First, the sentence structure. It starts with ""this is what it has all come to."" That phrasing often suggests a sense of culmination or arrival at a particular point. The word ""come"" here implies a progression or a journey, maybe leading to a conclusion.
+
+Now, looking at the words used. ""This is what it has all come to."" The phrase ""come to"" can have different connotations depending on context. In positive contexts, it might mean arriving at a good place, like ""we've come so far."" But without any positive adjectives, it's hard to tell. In neutral or negative contexts, it could mean arriving at a bad or disappointing point.
+
+The period at the end is a full stop, which doesn't give much emotional clue. It's not an exclamation mark or a question mark, so the tone isn't immediately obvious.
+
+I should consider possible implications. If someone says, ""This is what it has all come to,"" they might be expressing disappointment or frustration. For example, ""After all that effort, this is what it has come to."" That would be negative. Alternatively, it could be a neutral observation, like stating a fact without emotion.
+
+But without more context, it's a bit tricky. The lack of adjectives or emotional words makes it harder to gauge. However, the phrase does have a slightly weighty feel to it, suggesting that the speaker is reflecting on a significant outcome. If the outcome is negative, the sentiment would be negative; if it's positive, positive; but if it's just a statement, it's neutral.
+
+Given that the review is short and doesn't include any explicitly positive or negative words, I might lean towards neutral. But sometimes, the phrasing can carry an implied emotion. For example, ""this is what it has all come to"" could be used sarcastically or with a tone of resignation, which might be negative.
+
+Wait, in many contexts, this phrase is used when something has deteriorated or not met expectations. So maybe it's more negative. But I'm not entirely sure. I think it's on the fence between neutral and negative. However, since it's a standalone sentence without clear indicators, I might have to go with neutral because there's no explicit positive or negative language.
+</think>
+
+neutral",this is what it has all come to .
+6,positive,"Okay, so I need to classify this review as positive, negative, or neutral. The review is ""loved our visit and will certainly be going back!"" Let me break this down.
+
+First, looking at the words used. The word ""loved"" is a strong positive verb, indicating a very favorable experience. Then, ""will certainly be going back"" shows that the person intends to return, which is a good sign. It suggests satisfaction and likelihood of future patronage.
+
+There are no negative words here. The overall tone is enthusiastic and happy. The use of ""certainly"" emphasizes their intent, making it clear they had a good time.
+
+So putting it all together, the sentiment is definitely positive. There's no ambiguity or mixed feelings here. The reviewer is clearly expressing satisfaction and a desire to return, which are strong indicators of a positive sentiment.
+</think>
+
+positive",loved our visit and will certainly be going back!
+7,neutral,"Okay, so I need to classify this review as positive, negative, or neutral. Let's read it again: ""Went to a BMW dealership and a salesperson came out within a few minutes and we were test driving a 320i soon after."" 
+
+Hmm, the user went to a BMW dealership, which is a luxury brand, so maybe that's a good sign. The salesperson came out quickly, which is efficient. Then they were test driving a 320i soon after. Test driving usually implies interest, right? But the review doesn't mention any negative experiences or complaints. It's just stating the facts about the process.
+
+Wait, but does that make it positive? Or is it just a neutral account of events without expressing any emotion? The person didn't say they loved the car or had a great experience, just that things happened efficiently. So maybe it's neutral because there's no explicit positive or negative language. Alternatively, maybe the quick service and test drive indicate satisfaction, making it positive.
+
+I'm a bit torn. On one hand, the efficiency could be seen as positive. On the other hand, without any explicit positive words, it might just be neutral. I think I'll go with neutral because the review doesn't express a clear sentiment, just describes the events.
+</think>
+
+neutral",Went to a BMW dealership and a salesperson came out within a few minutes and we were test driving a 320i soon after.
+8,negative,"Okay, so I need to figure out whether the review ""I regret not going for the large !!"" is positive, negative, or neutral. Let me break this down step by step.
+
+First, I'll look at the words used. The key word here is ""regret."" Regret typically implies that someone is sorry about a past decision. In this case, the person is sorry they didn't go for the large option. That suggests that the large option might have been better or more satisfying than what they chose instead.
+
+Next, I consider the context. The review is about regretting not choosing the large size. It could be about food, a product, or a service. Regardless, the sentiment here is about a missed opportunity. The exclamation marks at the end add emphasis, showing that the feeling is strong.
+
+Now, thinking about sentiment classification, positive reviews usually express satisfaction or happiness, negative ones express dissatisfaction or disappointment, and neutral are neither. Since the person is expressing regret, it leans towards a negative sentiment because they're unhappy about their decision. They might have been expecting something better from the large size and feel disappointed they didn't get it.
+
+I don't see any positive words here. The focus is on the negative emotion of regret. There's no indication of neutrality because the emotion is clearly expressed. So, putting it all together, the sentiment is negative.
+</think>
+
+The review expresses regret, indicating dissatisfaction with the decision not to choose the large option. This conveys a negative sentiment.
+
+negative",I regret not going for the large !!
+9,positive,"Okay, so I need to figure out if the review ""The place has an old skool barbershop feel with sports playing on the TV."" is positive, negative, or neutral. Let me break this down step by step.
+
+First, I'll look at the words used. The phrase ""old skool barbershop feel"" gives me a sense of nostalgia or a classic vibe. That could be seen as positive because it suggests a welcoming and familiar atmosphere. People often appreciate places that evoke a sense of tradition or comfort.
+
+Next, the mention of ""sports playing on the TV"" adds another layer. Sports on TV usually create a lively and engaging environment, which can make the place more appealing to customers, especially those who enjoy watching sports while getting their haircut. This is another positive aspect because it enhances the overall experience.
+
+Putting these together, the review doesn't explicitly state whether the reviewer liked it or not, but the descriptors used are positive. The old skool feel and the presence of sports on TV contribute to a pleasant atmosphere. So, even though it's not an overtly glowing review, the elements mentioned are favorable.
+
+I don't see any negative words here. There's no mention of poor service, bad atmosphere, or anything that would indicate dissatisfaction. The focus is on the ambiance and entertainment, both of which are presented in a positive light.
+
+Therefore, considering the positive descriptors and the lack of any negative language, I would classify this review as positive.
+</think>
+
+positive",The place has an old skool barbershop feel with sports playing on the TV.
+10,positive,"Okay, so I need to figure out whether this review is positive, negative, or neutral. Let me read it again: ""Plastic still on the seats, 25km on the odometer, all the promised options and that awesome new truck smell."" 
+
+Hmm, the first part says ""Plastic still on the seats."" I'm not sure what that means. Maybe it's referring to the protective plastic covers that come on new cars? If the plastic is still on, does that mean the seats are new? Or is it a negative thing because the car hasn't been used much? I'm a bit confused there.
+
+Next, ""25km on the odometer."" That seems low, like the car hasn't been driven much. If it's a new car, low mileage is usually a good thing because it means it's almost brand new. So that part might be positive.
+
+Then it says, ""all the promised options."" That sounds good because it means the car has everything the seller advertised. It's meeting expectations, so that's positive.
+
+Lastly, ""that awesome new truck smell."" Oh, I know that smell! It's the fresh, new car smell, which is definitely a positive thing. People often associate that smell with a brand new vehicle, which is desirable.
+
+Putting it all together: the plastic on seats could be a bit confusing, but the other points—low mileage, all promised options, and the new truck smell—are all positive. So, despite the initial confusion about the plastic, the overall sentiment seems positive.
+</think>
+
+positive","Plastic still on the seats, 25km on the odometer, all the promised options and that awesome new truck smell."
+11,positive,"Okay, so I need to classify this review as positive, negative, or neutral. Let me read it again: ""Since it was our first time there, we didn't know what to order and but the server was super helpful and recommended a lot of dishes. I loved it."" 
+
+Hmm, the first part mentions it's their first time and they didn't know what to order. That could be a neutral point because it's just stating a situation. But then the server was super helpful and recommended dishes, which sounds positive. The last sentence is ""I loved it,"" which is clearly positive. 
+
+So, the server's helpfulness and the customer's expression of love for the experience make this a positive review. There's nothing negative mentioned, so it's not negative. It's definitely more than just neutral because of the explicit positive language.
+</think>
+
+positive","Since it was our first time there, we didn't know what to order and but the server was super helpful and recommended a lot of dishes. I loved it."
+12,neutral,"Okay, so I need to figure out the sentiment of this review: ""So, take home message!!..."" Hmm, let's break this down. The phrase ""take home message"" is a bit informal, but it's commonly used to sum up the main point or conclusion of something. The use of exclamation marks after it could indicate emphasis, but without more context, it's a bit tricky. 
+
+I'm trying to recall if ""take home message"" has any inherent positive or negative connotation. I think it's neutral on its own. It's more about delivering a summary rather than expressing emotion. The ellipsis at the end might suggest that the review is incomplete or trailing off, which doesn't add much sentiment either. 
+
+Since there's no clear positive or negative language here, I think the sentiment is neutral. It's just stating a message without any emotional charge. So, I'll go with neutral.
+</think>
+
+neutral","So, take home message!!..."
+13,positive,"Okay, so I need to figure out whether the review ""Formuliac, but fun."" is positive, negative, or neutral. Let me break it down.
+
+First, I'll look at the words used. The review has two parts: ""Formuliac"" and ""but fun."" The word ""Formuliac"" doesn't seem like a standard word. Maybe it's a typo? Perhaps they meant ""formulaic""? Formulaic usually means something that follows a predictable pattern, which can sometimes be seen as negative because it lacks originality.
+
+Then there's ""but fun."" The word ""fun"" is clearly positive. So, the review is combining a negative aspect with a positive one. The structure is ""something negative, but something positive,"" which often indicates a mixed sentiment. However, the task is to classify it as positive, negative, or neutral.
+
+In this case, the positive part comes after the negative, and the word ""fun"" is strong. It might suggest that despite being formulaic, the overall experience was enjoyable. So, the positive aspect might outweigh the negative, making the sentiment positive.
+
+Alternatively, if the formulaic nature was a significant downside, the sentiment might lean negative. But since the reviewer chose to end on a positive note with ""fun,"" I think the overall sentiment is positive.
+</think>
+
+positive","Formuliac , but fun ."
+14,neutral,"Alright, I need to classify this review as positive, negative, or neutral. The sentence is: ""And for contrast I alternated between bites of the cookies and scoops of the pot-de-cream."" 
+
+First, I'll break it down. The person is talking about alternating between cookies and pot-de-cream. They mention ""for contrast,"" which suggests they're comparing the two. But the sentence doesn't express any explicit emotion or opinion about either item. They're just stating what they did without indicating whether they liked or disliked them.
+
+I should check if there are any positive or negative words. Words like ""delicious,"" ""terrible,"" or ""amazing"" would give a clear sentiment. Here, there's none. It's more of an observational statement rather than a review with sentiment.
+
+Since there's no clear positive or negative language, the sentiment is likely neutral. They're sharing an action without judgment. So, the classification should be neutral.
+</think>
+
+neutral",And for contrast I alternated between bites of the cookies and scoops of the pot-de-cream.
+15,neutral,"Okay, I'm trying to figure out whether the review ""We made a reservation beforehand so we were expected."" is positive, negative, or neutral. Let me break it down. 
+
+First, the sentence says they made a reservation beforehand. That usually implies some level of planning or anticipation. But then it says ""so we were expected."" Hmm, the word ""expected"" here could have a couple of meanings. It might mean that the restaurant was prepared for them, which is a good thing because it shows organization and attentiveness. Alternatively, it could imply that they felt pressured or that the service was too anticipatory, but that doesn't seem to be the case here.
+
+I should also consider the overall tone. The review is short and doesn't express any strong emotions. There's no use of words like ""amazing,"" ""terrible,"" or ""disappointing."" It's more of a factual statement. So, it doesn't lean towards positive or negative. 
+
+Maybe the reviewer is just stating that they had a reservation and the place was ready for them. That's a neutral observation without any clear sentiment. So, I think the sentiment here is neutral.
+</think>
+
+neutral",We made a reservation beforehand so we were expected.
+16,positive,"Okay, I need to classify the review ""The dog parties are the best."" as positive, negative, or neutral. Let me break this down. The phrase ""the best"" is a strong positive indicator. It's a superlative, which usually conveys a high level of satisfaction. There's no negative language here, and the overall tone seems enthusiastic. The mention of ""dog parties"" is specific, but the sentiment expressed is clearly positive. So, putting it all together, this review is definitely positive.
+</think>
+
+positive",The dog parties are the best.
+17,negative,"Okay, so I need to figure out if the review ""I went in with a cold/allergies and a swollen icky eye."" is positive, negative, or neutral. Let me break this down. The user is talking about having a cold, allergies, and a swollen, icky eye. These are all symptoms that indicate the person isn't feeling well. The words used like ""cold,"" ""allergies,"" ""swollen,"" and ""icky"" all have negative connotations. They're describing an uncomfortable or unpleasant situation. There's no indication of a positive experience here; it's more about the state they're in rather than their opinion of a service or product. So, based on that, the sentiment should be negative because it's highlighting discomfort and illness without any positive remarks.
+</think>
+
+negative",I went in with a cold/allergies and a swollen icky eye.
+18,negative,"Okay, I need to figure out whether the review ""I was having second thoughts about ordering the plate because I'm not a fan of rice or beans."" is positive, negative, or neutral. Let me break it down.
+
+First, the user mentions having ""second thoughts"" about ordering. That usually means they're unsure or hesitant. Second thoughts often come from doubts or concerns, which can lean towards a negative sentiment because it shows reluctance.
+
+Then, they explain why: they're not a fan of rice or beans. Disliking the main components of the dish would naturally make someone not want to order it. So, this is another negative point because it's a clear dislike.
+
+Putting it together, the review expresses hesitation and dislike for the meal's key ingredients. There's no positive aspect mentioned here. It's more about the reasons not to order rather than any positive feelings. So, the sentiment is negative.
+</think>
+
+negative",I was having second thoughts about ordering the plate because im not a fan of rice or beans.
+19,neutral,"Okay, so I need to classify this review as positive, negative, or neutral. The review is: ""Eventually we were on our way to the hotels."" Hmm, let me break this down. 
+
+First, the word ""Eventually"" stands out. It suggests that there was a delay or some waiting involved before they got to the hotels. So, maybe the experience wasn't smooth or quick. But then the rest of the sentence says they did reach the hotels, so it's not entirely negative. 
+
+The sentiment here isn't clearly positive because there's no praise or enthusiasm. It's more of a factual statement with a slight implication of something not going as planned or taking longer than expected. But since they did reach their destination, it's not negative either. 
+
+So, I think this falls under neutral because it's stating a fact without expressing a strong positive or negative emotion. There's no explicit happiness or dissatisfaction, just a matter-of-fact statement about the situation.
+</think>
+
+neutral",Eventually we were on our way to the hotels.
+20,positive,"Okay, so I need to figure out if the review ""Came here about 4 months ago and I was very impressed."" is positive, negative, or neutral. Let me break this down.
+
+First, the user came to a place four months ago. The key part is ""I was very impressed."" The word ""impressed"" is a strong indicator of positive sentiment. When someone says they were impressed, it usually means they had a good experience. There's no negative language here, and the sentiment seems clearly positive.
+
+I don't see any neutral words like ""okay"" or ""so-so."" The phrase ""very impressed"" adds emphasis, making it more positive. The review doesn't mention any complaints or issues, so it's not negative. Therefore, the sentiment is positive.
+</think>
+
+positive",Came here about 4 months ago and i  was very impressed.
+21,negative,"Okay, so I need to classify the review ""It's cash only?"" as positive, negative, or neutral. Let me think about this step by step. 
+
+First, the review is a question: ""It's cash only?"" That suggests that the person is asking if the place only accepts cash. Now, why would someone ask that? Well, maybe they were expecting to use a card and found out they can't. That could be a problem if they don't have cash on them. 
+
+Alternatively, maybe they're checking if cash is accepted, which isn't inherently negative. But the way it's phrased as a question with a question mark might indicate surprise or concern. If the place only takes cash, some people might find that inconvenient, especially if they rely on cards. 
+
+On the other hand, if someone prefers cash, they might see this as a positive, but that's less common. Generally, not accepting cards can be a drawback for many customers. So the sentiment here is likely negative because it's pointing out a potential inconvenience.
+</think>
+
+negative",It's cash only?
+22,negative,"Okay, I need to classify this review as positive, negative, or neutral. Let me read it again: ""I have had a lot of negative experiences with dentists because of difficulty being numbed."" 
+
+Hmm, the user mentions having ""a lot of negative experiences."" That's a strong indicator of a negative sentiment. The reason given is difficulty being numbed, which implies discomfort or pain during dental visits. 
+
+I don't see any positive words here. The focus is entirely on past negative interactions. So, the sentiment is definitely negative.
+</think>
+
+negative",I have had a lot of negative experiences with dentists because of difficulty being numbed.
+23,neutral,"Okay, so I need to figure out whether the review ""Oh, you can get a bud or bud light for HH."" is positive, negative, or neutral. Let me break this down step by step.
+
+First, I'll look at the content of the review. The user is mentioning ""bud"" and ""bud light"" in the context of ""HH."" I'm not entirely sure what ""HH"" stands for here, but it might be an abbreviation for something like ""Happy Hour"" or ""House of Hackers"" or maybe a specific location or event. Without more context, it's a bit tricky, but I can make some assumptions.
+
+The phrase ""you can get a bud or bud light"" suggests that the reviewer is pointing out that these beers are available. ""Bud"" likely refers to Budweiser, and ""Bud Light"" is a lighter version of that beer. The mention of these specific brands could imply that the reviewer is highlighting the availability of popular or common beers, which might be seen as a positive aspect if the context is a place where beer selection is important, like a bar or restaurant.
+
+The sentiment here seems neutral because the statement is more informative than expressive. The reviewer isn't explicitly stating whether having Bud or Bud Light is good or bad. They're just stating that these options are available. There's no emotional language, no exclamation points beyond the initial ""Oh,"" which could be just an interjection without any strong sentiment.
+
+However, I should consider the possibility that the reviewer might be implying something more. If ""HH"" is a place where a wide variety of beers are expected, mentioning only Bud and Bud Light might be a criticism of limited selection. But without that context, it's hard to tell. The statement doesn't clearly express dissatisfaction or enthusiasm.
+
+So, putting it all together, the review is providing information without expressing a clear positive or negative emotion. Therefore, the sentiment is likely neutral.
+</think>
+
+neutral","Oh, you can get a bud or bud light for HH."
+24,negative,"Okay, I need to classify this review as positive, negative, or neutral. The review says, ""The lead actors share no chemistry or engaging charisma."" Hmm, let's break this down. 
+
+First, the phrase ""share no chemistry"" suggests that there's a lack of connection between the actors. Chemistry between actors is important because it can make a performance more believable and engaging. If they don't have it, that might make the movie less enjoyable.
+
+Next, the word ""no"" is a negative indicator here. It's a negation, so whatever follows is being denied. So, ""no chemistry"" and ""no engaging charisma"" both point towards a negative sentiment.
+
+""Engaging charisma"" refers to the actors' ability to attract and hold the audience's interest. If they don't have that, the audience might find the performance uninteresting or flat.
+
+Putting it all together, the review is pointing out two significant flaws in the actors' performance. The lack of chemistry and charisma likely makes the overall experience unsatisfactory. Therefore, the sentiment expressed here is negative.
+</think>
+
+negative",The lead actors share no chemistry or engaging charisma .
+25,negative,"Okay, so I need to figure out whether the review ""i am in my own thoughts but i faced lots of problem"" is positive, negative, or neutral. Let me break it down step by step. 
+
+First, I'll look at the words used. The phrase ""in my own thoughts"" can be a bit ambiguous. It might mean the person is deep in thought or perhaps feeling introspective. But then the second part says ""faced lots of problem."" That's a clear indicator of difficulty or challenges encountered. 
+
+The word ""problem"" usually has a negative connotation, suggesting something went wrong or was difficult. So the mention of facing many problems leans towards a negative sentiment. 
+
+However, the first part is a bit confusing. If someone is ""in their own thoughts,"" it could mean they're reflecting or maybe just in a pensive mood. But without more context, it's hard to say if that's positive or neutral. 
+
+Putting it all together, the mention of problems is a strong negative indicator. The first part doesn't add enough positivity to outweigh that. So, I think the overall sentiment is negative.
+</think>
+
+negative",i am in my own thoughts but i faced lots of problem
+26,positive,"Okay, I need to classify this review as positive, negative, or neutral. Let me read it carefully. The review says, ""You can drive through in that amount of time but I would recommend 2 hours if you want to stop and soak in the views and 3 or 4 hours (minimum) if you want to enjoy a nice hike and take in a lifetime experience."" 
+
+Hmm, the user is talking about the time needed for a trip. They mention that driving through is possible quickly, but they suggest spending more time to enjoy the views and even longer for a hike. The words ""soak in the views"" and ""lifetime experience"" sound positive. They're encouraging people to take their time to appreciate the place, which implies they had a good experience themselves. So overall, this seems positive because they're recommending spending more time, highlighting the enjoyable aspects.
+</think>
+
+positive",You can drive through in that amount of time but I would recommend 2 hours of you want to stop and soak in the views and 3 or 4 hours (minimum) if you want to enjoy a nice hike and take in a lifetime experience.
+27,positive,"Okay, I need to classify this review as positive, negative, or neutral. The review says, ""Our server had picked the wine for the menu, we picked it for the meal."" Let me break this down.
+
+First, the server picked the wine for the menu. That sounds like the server was involved in selecting the wine, which could be a good thing because it shows attention to detail. Then it says ""we picked it for the meal."" Hmm, that part is a bit confusing. Does it mean the customer picked the wine for the meal, or that the server did? The wording is a bit ambiguous.
+
+Wait, maybe it's saying that the server chose the wine for the menu, and then the customer chose it for the meal. So the server's selection was appropriate because the customer ended up choosing it as well. That would imply that the server's choice was good because it matched the meal. 
+
+Alternatively, maybe the server selected the wine for the menu, and the customer selected it for the meal, which could mean that the server's choice was spot on, leading the customer to pick it. That would be positive because the server's recommendation was effective.
+
+I don't see any negative words here. The focus is on the server's selection and the customer's choice, which seems to align well. There's no indication of dissatisfaction or criticism. So overall, the sentiment seems positive because it highlights a good experience with the server's wine selection matching the meal choice.
+</think>
+
+positive","Our server had picked the wine for the menu, we picked it for the meal."
+28,neutral,"Okay, so I have to classify this review as positive, negative, or neutral. The review is: ""My wife and I spent $46 dollar tonight."" Hmm, let's break this down.
+
+First, the sentence mentions spending $46. That's a specific amount, but it doesn't indicate whether it was a good or bad experience. The user didn't say if they thought it was expensive, affordable, or worth the money. They just stated the fact that they spent that amount.
+
+I'm thinking about the sentiment here. Positive reviews usually have words like ""great,"" ""excellent,"" or ""loved."" Negative ones might have words like ""terrible,"" ""bad,"" or ""disappointed."" Neutral reviews just state facts without expressing a clear opinion.
+
+In this case, the review is just a statement of what happened. There's no emotion or opinion expressed. They didn't say they had a good time or that it was a waste of money. So, I don't think it's positive or negative.
+
+Wait, but sometimes the context can imply sentiment. For example, if someone mentions the price without any further comment, it could be neutral, but sometimes people imply it's expensive. However, without more context, like whether $46 is high or low for their standards, it's hard to tell.
+
+I think the safest classification here is neutral because there's no explicit positive or negative language. It's just a factual statement about spending money.
+</think>
+
+neutral",My wife and I spent $46 dollar tonight.
+29,negative,"Okay, so I need to classify this review as positive, negative, or neutral. Let me read it carefully. The review says, ""She then tried to argue with me that his meal didn't come with those things until the other server corrected her. very unprofessional."" 
+
+Hmm, the first part mentions the server arguing with the customer, which sounds like a conflict. Then another server corrects her, implying the first server was wrong. The reviewer ends by calling it ""very unprofessional."" 
+
+Unprofessional behavior in service usually reflects poorly on the service quality, so that's a negative sentiment. There's no positive language here; the focus is on the negative interaction and the server's mistake. So, the sentiment is negative.
+</think>
+
+negative",She then tried to argue with me that his meal didn't come with those things until the other server corrected her. very unprofessional
+30,negative,"Okay, so I have this review to classify as positive, negative, or neutral. The review is: ""I have to wait 15 minutes, while the people yesterday waited 30 minutes."" Hmm, let me break this down.
+
+First, the person is talking about waiting time. They mention they had to wait 15 minutes, and then compare it to others who waited 30 minutes yesterday. So, on the surface, it seems like they're pointing out that their waiting time was shorter than others'. But wait, is that a good thing or bad thing?
+
+I think shorter wait times are generally positive because waiting less is better. But the way it's phrased might affect the sentiment. The structure is a bit confusing. They say ""I have to wait 15 minutes,"" which sounds like a complaint, but then add that others waited longer. Maybe they're trying to say it's better than before, but the tone isn't clear.
+
+Alternatively, maybe they're frustrated because they still had to wait 15 minutes, even though others had to wait longer. It's possible they're not happy with the 15 minutes but are just pointing out that others had it worse. Or perhaps they're comparing to show that it's an improvement, which would be positive.
+
+Wait, the phrase ""have to wait"" sounds a bit negative. It might express inconvenience or dissatisfaction. But the comparison to others waiting longer could be a way of downplaying their own wait time. So overall, the sentiment might be negative because they're still waiting, but it's less than others. Or maybe it's neutral because they're just stating a fact without a clear positive or negative emotion.
+
+I'm a bit torn. On one hand, waiting 15 minutes isn't great, but on the other, it's better than 30. The lack of explicit positive or negative words makes it tricky. Maybe it's neutral because it's more of a factual statement without strong emotion. Alternatively, the mention of waiting could lean negative.
+
+I think I'll go with negative because waiting, even if shorter, is generally seen as a downside. So the sentiment is negative.
+</think>
+
+negative","I have to wait 15 minutes, while the people yesterday waited 30 minutes."
+31,negative,"Okay, I need to figure out whether this review is positive, negative, or neutral. The review is: ""I lived at Autumn Park for a year my senior year in college and I don't miss it one bit.""
+
+First, I'll break it down. The person stayed at Autumn Park for a year during their senior year of college. Then they say they don't miss it one bit. The phrase ""don't miss it one bit"" is a strong indicator. It usually means they didn't like the experience and are glad it's over. 
+
+Looking at the sentiment, ""don't miss it"" is negative because it shows dissatisfaction. They're not expressing any positive feelings about their time there. There's no neutral language here; the statement is clearly expressing a lack of desire to revisit the place. 
+
+So, considering all that, the sentiment is negative.
+</think>
+
+negative",I lived at Autumn Park for a year my senior year in college and I don't miss it one bit.
+32,negative,"Okay, so I need to classify this review as positive, negative, or neutral. Let me read the review again: ""Flashy gadgets and whirling fight sequences may look cool, but they can't distract from the flawed support structure holding Equilibrium up."" 
+
+Hmm, the review starts by mentioning ""flashy gadgets"" and ""whirling fight sequences,"" which sound positive because they use words like ""cool."" But then it says ""but they can't distract from the flawed support structure."" The word ""flawed"" is negative, indicating that despite the cool elements, the overall structure isn't good. 
+
+So, the reviewer is pointing out that while there are some good aspects, the main structure is weak. That makes the overall sentiment negative because the flaws overshadow the positives. Therefore, the sentiment should be negative.
+</think>
+
+negative","Flashy gadgets and whirling fight sequences may look cool , but they ca n't distract from the flawed support structure holding Equilibrium up ."
+33,positive,"Okay, so I need to figure out whether the review ""I had one of their white pizzas. It was delicious."" is positive, negative, or neutral. Let me break this down step by step.
+
+First, I'll read the review carefully. The person says they had a white pizza and that it was delicious. The word ""delicious"" stands out to me because it's a strong positive adjective. It's not just a neutral statement like ""okay"" or ""so-so""; it's clearly expressing satisfaction.
+
+I should consider the context. White pizza is a specific type, but the sentiment isn't about the type itself but the experience. The reviewer didn't mention any negatives, like bad service or poor ingredients, just that the pizza was delicious. So, there's no indication of any negative feelings here.
+
+Also, the structure of the sentence is straightforward. The first part is a statement of action, and the second part is a positive evaluation. There's no sarcasm or irony detected, which sometimes can flip the sentiment. The use of ""delicious"" is genuine and positive.
+
+I don't think it's neutral because neutral would mean no strong emotion, but ""delicious"" conveys a clear positive emotion. There's no ambiguity in the statement either. The reviewer is happy with their experience.
+
+So, putting it all together, the sentiment here is definitely positive. The use of a strong positive word and the absence of any negative elements make this a positive review.
+</think>
+
+positive",I had one of their white pizzas. It was delicious.
+34,neutral,"Okay, so I need to figure out if the review ""I don't think any one item costs $5 or more."" is positive, negative, or neutral. Let me break this down.
+
+First, the review is talking about the prices of items. The person is saying that they don't think any single item costs $5 or more. Hmm, so they're making a statement about the price range. 
+
+I should consider the context. If someone is talking about prices being lower than expected, it could be positive if they're happy about affordable items. But on the other hand, if they're implying that items are too cheap and maybe not worth it, that could be negative. Or maybe they're just stating a fact without any emotion, making it neutral.
+
+Looking at the phrasing, ""I don't think any one item costs $5 or more."" There's no explicit positive or negative language here. It's more of an observation rather than an opinion. They're not expressing satisfaction or dissatisfaction, just stating that items are priced under $5.
+
+So, since there's no clear positive or negative sentiment, I think this review is neutral. It's informative without showing any emotion or judgment.
+</think>
+
+neutral",I don't think any one item costs $5 or more.
+35,positive,"Okay, so I need to classify this review as positive, negative, or neutral. The review is: ""Do yourself a favor and try some new beers."" Let me break this down.
+
+First, the phrase ""Do yourself a favor"" is often used to give advice or suggest something beneficial. It usually has a positive connotation because it's recommending an action that's supposed to be good for the person. For example, someone might say, ""Do yourself a favor and get some rest,"" which is encouraging.
+
+Next, the suggestion is to ""try some new beers."" Trying new things, especially in the context of food or drink, is generally seen as a positive experience. It implies exploration and maybe even enjoyment. So, the reviewer is encouraging the reader to explore new beers, which could mean they think it's a worthwhile and pleasant activity.
+
+There's no negative language here. Words like ""bad,"" ""disappointing,"" or ""avoid"" aren't present. Instead, the tone is encouraging and positive. The reviewer isn't expressing dissatisfaction or a negative experience; instead, they're promoting an action that's likely to be enjoyable.
+
+Putting it all together, the sentiment seems positive because the review is advising someone to do something enjoyable and beneficial. It's an endorsement of trying new beers, which is a positive recommendation.
+</think>
+
+positive",Do yourself a favor and try some new beers.
+36,neutral,"Okay, so I need to classify the given review as positive, negative, or neutral. The review is: ""And it's not as busy currently.""
+
+First, I'll break down the sentence. The phrase ""it's not as busy"" suggests that the place isn't as crowded as it usually is. The word ""busy"" can imply a few things. In a positive context, being less busy could mean a more relaxed experience, which is good. In a negative context, maybe the business isn't attracting enough customers, which could be bad. But without more context, it's a bit tricky.
+
+Looking at the sentence structure, the user is pointing out that it's not as busy. They could be happy about the lower crowd because it means less waiting or a quieter environment. Alternatively, they might be implying that it's underwhelming because it's not bustling. 
+
+The word ""currently"" adds a time aspect, meaning it's not busy at the moment, but it doesn't specify if this is a good or bad thing. Since there's no explicit positive or negative language, it leans towards a neutral sentiment. It's just a factual statement about the current state of being less busy.
+
+I don't see any strong positive or negative words here. It's more of an observation without an opinion. So, I think the sentiment is neutral.
+</think>
+
+neutral",And it's not as busy currently.
+37,positive,"Alright, so I need to figure out the sentiment of the review ""OK, perfect!"". Hmm, let's break this down. The user is asking me to classify it as positive, negative, or neutral. 
+
+First, I'll look at the words used. ""OK"" is generally neutral, right? It's like a middle ground, not really happy or sad. But then there's ""perfect!"", which is definitely positive. The exclamation mark adds emphasis, making it sound more enthusiastic.
+
+Putting them together, the review starts with a neutral word but ends with a strong positive one. So, the overall sentiment seems to lean positive. The person is probably satisfied, maybe even happier than just saying ""OK."" 
+
+I don't see any negative words here, so negative is out. It's not just neutral because of the ""perfect!"" part. So, the sentiment should be positive.
+</think>
+
+positive","OK, perfect!"
+38,neutral,"Okay, so I need to figure out whether the review ""I take my heels in for repair when the taps of my heel wear down."" is positive, negative, or neutral. Let me break this down step by step.
+
+First, I'll read the review carefully. The user mentions taking their heels in for repair when the taps wear down. The key points here are ""repair"" and ""wear down."" So, the taps on the heels are wearing down, which means they're getting damaged or worn out. The user is taking them in for repair, which suggests that they're addressing the issue.
+
+Now, I should consider the sentiment behind this statement. The fact that the taps are wearing down could be seen as a negative because it indicates wear and tear, which might mean the product isn't lasting as long as expected. However, the user is taking action by getting them repaired, which might imply that they value the product enough to fix it instead of discarding it. 
+
+But the review doesn't express any strong positive emotions like satisfaction or happiness. It's more of a factual statement about a maintenance action. There's no explicit criticism or praise, just a neutral observation about the condition of the heels and the repair process. 
+
+I'm also thinking about the context. If the taps wearing down is a common issue, the user might be indicating dissatisfaction, but without more context, it's hard to tell. The repair could mean they're prolonging the life of the heels, which is a positive action, but the statement itself doesn't express sentiment about the product's quality or their experience with the repair service.
+
+So, considering all this, the sentiment seems to be neutral because the statement is more about a routine maintenance activity without expressing a clear positive or negative emotion.
+</think>
+
+neutral",I take my heels in for repair when the taps of my heel wear down.
+39,neutral,"Alright, so I need to classify this review as positive, negative, or neutral. The review is: ""I tried my wife's dish which was the Spicy Pork with white rice."" Hmm, let me break this down.
+
+First, the sentence mentions that the person tried their wife's dish. The name of the dish is Spicy Pork with white rice. Now, I'm trying to figure out the sentiment here. The user hasn't explicitly stated whether they liked it or not. They just mentioned that they tried it. 
+
+I should consider if there are any implicit clues. The word ""spicy"" could imply something about the taste, but without more context, it's hard to tell if that's a positive or negative aspect. Maybe they like spicy food, or maybe they don't. But since it's just stated as a fact, it doesn't give a clear sentiment.
+
+There's no use of positive words like ""delicious,"" ""amazing,"" or ""loved."" Similarly, there are no negative words like ""terrible,"" ""disgusting,"" or ""hated."" It's a neutral statement of fact without any emotional language.
+
+So, without any explicit positive or negative indicators, the sentiment should be neutral. The review doesn't express satisfaction or dissatisfaction, just an action of trying the dish.
+</think>
+
+neutral",I tried my wife's dish which was the Spicy Pork with white rice.
+40,neutral,"Okay, I need to classify this review as positive, negative, or neutral. Let's read it again: ""Arrived, noticed the place was kinda cheaply decorated, but whatever, not there for decorations."" 
+
+First, the reviewer mentions that the place was ""cheaply decorated."" The word ""cheaply"" can have a negative connotation, suggesting that the decor wasn't up to their standards or expectations. That part might lean towards a negative sentiment.
+
+However, the reviewer quickly follows up with ""but whatever, not there for decorations."" This indicates that they're dismissing the decoration issue as unimportant. They're focusing on the fact that they weren't there for the decor, so it doesn't affect their overall experience. 
+
+Putting it together, while there's a negative comment about the decor, the overall tone seems neutral because the reviewer doesn't let it impact their opinion. They're not expressing strong positive or negative feelings about the place beyond the decor, which they downplay. So, the sentiment is probably neutral.
+</think>
+
+neutral","Arrived, noticed the place was kinda cheaply decorated, but whatever, not there for decorations."
+41,negative,"Alright, so I need to classify the review ""Moving on..."" as positive, negative, or neutral. Let me think about this step by step.
+
+First, the phrase ""Moving on..."" is quite short, so I have to analyze the context and the possible implications. The ellipsis at the end suggests that the person might be trailing off, possibly indicating an unfinished thought or hesitation.
+
+The phrase ""Moving on"" can have different meanings depending on the context. In some cases, it could mean that someone is leaving a place, moving to a new phase in life, or changing their situation. But without more context, it's a bit ambiguous.
+
+In a review setting, ""Moving on"" could imply dissatisfaction. For example, if someone is leaving a place or a situation because they're not happy with it, that would lean towards a negative sentiment. Alternatively, it could be neutral if they're just stating a fact without any emotional tone, like moving on to the next step in a process.
+
+However, given that it's a review, it's more likely to express an opinion. The brevity and the ellipsis might indicate that the reviewer is not fully satisfied but perhaps doesn't want to elaborate further. It could be a subtle way of expressing dissatisfaction without being overtly negative.
+
+Another angle is to consider the sentiment of the phrase. ""Moving on"" doesn't inherently carry a positive or negative connotation on its own, but in a review, it's often used to express that the experience wasn't worth continuing or that the person is leaving because they didn't get what they wanted.
+
+So, putting it all together, I think the sentiment here is negative. The reviewer is moving on, which suggests they're not satisfied and are leaving the situation, which indicates a negative experience.
+</think>
+
+negative",Moving on...
+42,neutral,"Okay, I need to classify the review ""NYE, we attended the Lustre Bar Winter Wonderland NYE party."" as positive, negative, or neutral. Let me break this down.
+
+First, the review mentions attending a NYE party at Lustre Bar's Winter Wonderland event. The user doesn't provide any explicit positive or negative words. There's no adjectives like ""amazing,"" ""terrible,"" or ""fun."" It's just stating that they went to the event.
+
+Since there are no indicators of sentiment, it's not expressing a positive or negative feeling. It's more of a factual statement about attending the party. Therefore, the sentiment is neutral.
+</think>
+
+neutral","NYE, we attended the Lustre Bar Winter Wonderland NYE party."
+43,neutral,"Okay, so I need to figure out whether the review ""Other notes: I didn't peruse the gym area."" is positive, negative, or neutral. Hmm, let's break this down. 
+
+First, the review mentions ""I didn't peruse the gym area."" The word ""peruse"" means to look through or examine something, usually with interest. So, the person didn't check out the gym. That could imply a few things. Maybe they weren't interested in the gym, or perhaps the gym wasn't available. 
+
+But the sentiment here isn't clearly positive or negative. The statement is more of a fact than an opinion. They're just stating that they didn't look at the gym. There's no explicit praise or criticism. 
+
+I should also consider the context. If the review is part of a larger feedback, maybe the gym wasn't a priority for them, but that doesn't necessarily make it positive or negative. It's just a neutral observation. 
+
+So, putting it all together, the sentiment is neutral because the statement doesn't express a positive or negative feeling about the gym—it's just stating an action they didn't take.
+</think>
+
+neutral",Other notes: I didn't peruse the gym area.
+44,neutral,"Okay, so I need to figure out whether the sentiment of this review is positive, negative, or neutral. The review says: ""I had a reservation for this hotel earlier this morning (mind you that I am typing these lines from The Hyatt 1 block away!)."" 
+
+First, I'll break it down. The person made a reservation at the hotel but is now typing from The Hyatt, which is just one block away. That might indicate that they didn't end up staying at the hotel they reserved, but instead are at a different hotel nearby. 
+
+Hmm, why would they switch hotels? Maybe the original hotel wasn't up to their standards or had issues. But the review doesn't explicitly say anything bad about the hotel. It just mentions the switch. 
+
+I should consider the tone. The phrase ""mind you"" is a bit informal and could be emphasizing their current location. But there's no clear positive or negative language here. They're just stating a fact about their reservation and current location without expressing satisfaction or dissatisfaction.
+
+So, without any explicit positive or negative words, the sentiment seems neutral. They're not praising the hotel or complaining; they're just providing information about their situation.
+</think>
+
+neutral",I had a reservation for this hotel earlier this morning (mind you that I am typing these lines from The Hyatt 1 block away!).
+45,negative,"Okay, so I need to figure out whether the review ""I'm a total square of a guy and have always been a challenge for hair stylists."" is positive, negative, or neutral. Let me break this down step by step.
+
+First, the phrase ""I'm a total square of a guy"" catches my attention. I know that ""square"" can have different meanings, but in this context, I think it's being used as slang. From what I remember, ""square"" often refers to someone who is considered old-fashioned or conventional. So, the person is saying they're a square, which might not be a compliment, but it's more about self-identity.
+
+Next, the second part says ""have always been a challenge for hair stylists."" That suggests that the person has had difficulties with hair stylists in the past. Being a challenge could mean that they have specific needs or perhaps a difficult personality when it comes to getting their hair done. This part might lean towards a negative sentiment because it implies that the experience wasn't smooth.
+
+Putting it together, the review seems to be pointing out personal traits that make getting a haircut challenging. The person is acknowledging their own difficulties in this area. While they're not outright complaining about a specific service, the implication is that their squareness has made it tough for stylists. This could indicate dissatisfaction or frustration with past experiences, which would make the sentiment negative.
+
+I don't think it's neutral because the mention of being a challenge suggests some level of difficulty or problem. It's also not positive because the focus is on the challenges rather than any positive outcomes or satisfaction.
+
+So, considering both parts, the overall sentiment is likely negative.
+</think>
+
+negative",I'm a total square of a guy and have always been a challenge for hair stylists.
+46,neutral,"Okay, so I need to figure out whether the review ""This is the kind of place it is, so be aware."" is positive, negative, or neutral. Hmm, let me break it down. The sentence is a bit vague. It starts with ""This is the kind of place it is,"" which doesn't give a clear opinion on its own. It's more of a statement rather than an explicit sentiment. Then it adds ""so be aware,"" which might imply that there's something to be cautious about. Maybe the reviewer is warning others, but without specific details, it's hard to tell if it's a positive or negative warning. It could be something like the place is unique or has certain characteristics that aren't necessarily good or bad. So, putting it all together, I think the sentiment here is more neutral because it doesn't clearly express a positive or negative feeling, just a heads-up.
+</think>
+
+neutral","This is the kind of place it is, so be aware."
+47,neutral,"Okay, so I need to classify the review ""Then gestured something my way."" as positive, negative, or neutral. Let me think about this step by step. 
+
+First, I'll read the sentence carefully. It's a bit short, so I have to consider what's being conveyed. The phrase ""gestured something my way"" doesn't have any strong positive or negative words. Gesturing can be neutral, like a wave or a nod, but it can also be positive or negative depending on the context. However, without more context, it's hard to tell.
+
+I'll break it down. The word ""gestured"" is neutral on its own. It just means that someone made a gesture. ""Something my way"" is also neutral—it doesn't specify whether the gesture was friendly, rude, or something else. So, the sentence doesn't provide enough information to determine if the sentiment is positive or negative.
+
+Since there are no emotionally charged words or clear indicators of sentiment, I think the safest classification is neutral. It's just a statement of an action without any clear positive or negative connotation.
+</think>
+
+neutral",Then gestured something my way.
+48,negative,"Okay, so I need to classify the review ""Our dentist is too abrasive."" as positive, negative, or neutral. Let me think about this step by step. 
+
+First, I should understand the words used. The main word here is ""abrasive."" I know that ""abrasive"" can have a couple of meanings, but in this context, it's probably referring to a person's behavior. I think it means someone who is rough, harsh, or irritating. So, if the dentist is described as too abrasive, that's not a good thing. 
+
+People usually go to the dentist for care and comfort, so if the dentist is abrasive, that might make the experience unpleasant. The word ""too"" adds emphasis, meaning it's more than just a little rough; it's excessive. So the reviewer is likely expressing dissatisfaction with the dentist's demeanor. 
+
+There's no positive language here, just a criticism. So it's not positive. It's also not neutral because the reviewer is clearly stating a negative trait. 
+
+Therefore, the sentiment here is negative.
+</think>
+
+negative",Our dentist is too abrasive.
+49,neutral,"Okay, so I need to classify this review as positive, negative, or neutral. The review says, ""I had rice and salad while my wife had Greek fries and salad and we ordered the red pepper hummus."" Let me break this down.
+
+First, the review mentions the food items they had: rice, salad, Greek fries, and red pepper hummus. There's no explicit positive or negative language here. It's just stating what they ordered. I don't see any adjectives like ""delicious"" or ""terrible"" that would indicate a clear sentiment.
+
+Maybe I should consider if the structure of the sentence implies something. It seems like they're just listing their orders without adding any opinion. So, it's more of a factual statement rather than an expression of satisfaction or dissatisfaction.
+
+Also, since they didn't mention anything about the taste, service, or overall experience, it's hard to infer a sentiment. They could be happy, but there's no indication of that. Similarly, there's no sign of dissatisfaction either.
+
+So, putting it all together, the review doesn't express any emotion or opinion. It's just a neutral statement about what they ordered.
+</think>
+
+neutral",I had rice and salad while my wife had Greek fries and salad and we ordered the red pepper hummus.
